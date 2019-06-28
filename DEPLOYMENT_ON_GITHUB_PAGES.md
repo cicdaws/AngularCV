@@ -35,4 +35,3 @@ Don't forget the slash at the end or else it won't work.
 ```sh
 npx ngh
 ```
-
